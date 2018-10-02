@@ -1,0 +1,17 @@
+.contenedor{
+width: 800px;
+height: 400px;
+text-align: center;
+background-color: cadetblue;
+margin: 0 auto;
+
+}
+.header{
+
+    width: 800px;
+height: 100px;
+text-align: center;
+background-color: yellowgreen;
+
+
+}
